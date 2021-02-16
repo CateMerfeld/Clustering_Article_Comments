@@ -1,3 +1,7 @@
+# Clustering User Comments on News Articles
+
+## Introduction:
+
 # Project Overview:
 ---
 I looked at comments on New York Times articles from April 2017. The dataset I used had information on the comments, commenters and the article on which they were commenting. Some of the variables included: time the comment was written; commenter's location; number of upvotes the comment received; subject of the article the comment was written about; and the body of the comment.
