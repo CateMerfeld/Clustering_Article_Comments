@@ -9,7 +9,7 @@ The news industry has been in decline for the last two decades. What was once a 
 ## Data
 
 I used comments on New York Times articles from April 2017. The dataset had information on the comments, commenters and the article about which they were posting. Some of the variables included: time the comment was written; commenter's location; number of upvotes the comment received; subject of the article the comment was written about; and the body of the comment.
- 
+
 ## Methodology
 
 During exploratory data analysis I focused on the comment bodies, looking at the most common words overall and by topic. I created several features including a `writingTime` feature representing the number of minutes the commenter worked on their comment, and several features to reflect the presence of the most common words.
