@@ -4,7 +4,7 @@
 
 The news industry has been in decline for the last two decades. What was once a thriving industry is now a shrinking and competitive field. The chart below is from a [Pew Research Center study](https://www.pewresearch.org/fact-tank/2020/04/20/u-s-newsroom-employment-has-dropped-by-a-quarter-since-2008/), showing the decrease in newsroom employment over the last twenty years. As customer retention becomes more difficult, these companies are trying to learn as much as they can about their customers, and what drives engagement for their particular market segment. 
 
-One area of customer engagement that already exists is the comments section for articles. I wanted to see 
+I decided to study customer engagement by looking at the user comments section of articles. I thought that information regarding customers' reading and commenting patterns could lead to valuable insight that companies could use to drive customer engagement. 
 
 <img src=https://www.pewresearch.org/wp-content/uploads/2020/04/ft_2020.04.20_newsroomemployment_01.png>
 
