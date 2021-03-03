@@ -24,4 +24,5 @@ By the time I had finished creating features and encoding my categorical variabl
 I ran KMeans, DBSCAN and GMM on the UMAP and FAMD components, and compared the results. KMeans was the most successful at clustering the comments into consistent groups. The clusterings were useful as they allowed us to gain insight into the average features for each group of comments.
 
 ![](/images/results.png?raw=true "Results")
+
 The original dataset can be found <a href='https://www.kaggle.com/aashita/nyt-comments?select=CommentsApril2017.csv'>here</a>.
